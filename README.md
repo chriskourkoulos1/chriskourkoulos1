@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chriskourkoulos1
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Computer Science 
+- 🌱 I’m currently learning Computer Science/Web Development
 - 📫 How to reach me chris.kourkoulos@gmail.com
 
 <!---
